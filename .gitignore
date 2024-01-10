@@ -1,0 +1,3 @@
+node_modules/*
+addresses.csv
+.env
